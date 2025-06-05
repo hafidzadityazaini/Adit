@@ -14,7 +14,7 @@ export default function SAS() {
 
       <p className="text-lg  hover:text-blue-500 transition duration-850 ease-in-out">
         Tugas ini dibuat oleh Muhammad Hafidz Aditya Zaini di kelas Hafs sesi dua
-        dengan pengawas ustadz Rezky Suryana.
+        dengan pengawas ustadz Muhammad Jen.
       </p>
     </div>
   );
